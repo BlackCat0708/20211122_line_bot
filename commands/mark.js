@@ -11,8 +11,6 @@ export default async (event) => {
       if (info.market_name === name) {
         event.reply(flex)
         return
-      } else if (name === '商家名稱') {
-        event.reply('請按照上方輸入文字，並改掉商家名稱')
       }
     }
     event.reply('商家未申請')

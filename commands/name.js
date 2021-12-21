@@ -23,8 +23,6 @@ export default async (event) => {
 
         event.reply(message)
         return
-      } else if (name === '商家名稱') {
-        event.reply('請按照上方輸入文字，並改掉商家名稱')
       }
     }
     event.reply('商家未申請')
