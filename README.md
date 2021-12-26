@@ -21,7 +21,6 @@
 * 點擊 [加入好友](https://line.me/R/ti/p/%40586cmshp)
 * 掃描 QRcode
 
-
 ![QRcode](https://qr-official.line.me/sid/L/586cmshp.png)
 
 ## <a name="directions"></a>使用方法
